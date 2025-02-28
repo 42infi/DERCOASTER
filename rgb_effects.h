@@ -1,6 +1,6 @@
 /* 
  * File:   rgb_effects.h
- * Author: JonSandström
+ * Author: JonSandstrÃ¶m
  *
  * Created on March 16, 2023, 12:36 PM
  */
@@ -15,7 +15,7 @@ extern "C" {
 #endif
     
     // Define number of effects
-    #define NUM_EFFECTS 10
+    #define NUM_EFFECTS 15
     
     void rgb_effects_loop();
     void rgb_set_effect(uint8_t effect);
